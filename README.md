@@ -139,7 +139,7 @@ This project is licensed under the MIT License - see LICENSE file for details.
 
 ## 👨‍💻 Author
 
-**Deepa**
+**Deepa Prajapati**
 
 - 📧 Email: deepa7932praj@gmail.com
 - 🔗 GitHub: [@Deepa5270](https://github.com/Deepa5270)
